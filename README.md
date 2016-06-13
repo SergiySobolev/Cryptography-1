@@ -8,7 +8,7 @@ Week 1: Many Time Pad
 Week 2: Two encryption/decryption systems, one using AES in CBC mode and another using AES in counter mode (CTR)  
 Week 3: SHA256 hashing for long video file  
 Week 4: Padding Oracle attack  
-Week 5: --  
+Week 5: Discrete Log Modulo a Prime p  
 Week 6: --  
 
 
