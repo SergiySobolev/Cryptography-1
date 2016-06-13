@@ -7,7 +7,9 @@ Offered by Stanford University through Coursera
 Week 1: Many Time Pad  
 Week 2: Two encryption/decryption systems, one using AES in CBC mode and another using AES in counter mode (CTR)  
 Week 3: --  
-Week 4: --  
+Week 4: Padding Oracle attack  
+Week 5: --  
+Week 6: --  
 
 
 *Official Certifcate Link:* <Will be added in future>  
