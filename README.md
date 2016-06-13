@@ -12,7 +12,7 @@ Week 5: Discrete Log Modulo a Prime p
 Week 6: Breaking RSA when the public modulus N is generated incorrectly  
 
 
-*Official Certifcate Link:* <Will be added in future>  
+*Official Certifcate Link:* https://www.coursera.org/account/accomplishments/records/WRQ9AQ3ZLZL3  
 *Received Grades:* **94.4%**  
 
 **Code Format:** *Python*  
