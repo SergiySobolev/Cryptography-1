@@ -5,7 +5,7 @@ Offered by Stanford University through Coursera
 *Contains submitted codes for all Homeworks:*  
 
 Week 1: Many Time Pad  
-Week 2: Flash game named "Bloxorz" using streams and lazy evaluation  
+Week 2: Two encryption/decryption systems, one using AES in CBC mode and another using AES in counter mode (CTR)  
 Week 3: --  
 Week 4: --  
 
