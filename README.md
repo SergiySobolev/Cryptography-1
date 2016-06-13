@@ -9,7 +9,7 @@ Week 2: Two encryption/decryption systems, one using AES in CBC mode and another
 Week 3: SHA256 hashing for long video file  
 Week 4: Padding Oracle attack  
 Week 5: Discrete Log Modulo a Prime p  
-Week 6: --  
+Week 6: Breaking RSA when the public modulus N is generated incorrectly  
 
 
 *Official Certifcate Link:* <Will be added in future>  
